@@ -9,7 +9,7 @@ h1{
 .one-color{
     color: rgb(250, 181, 98);
 }
-section{
+.fexible-container{
     display: flex;
     margin-bottom: 150px;
 }
